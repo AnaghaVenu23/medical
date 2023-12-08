@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.facebook.com/annmariyabiju",
+    "tw_url":"https://www.facebook.com/annmariyabiju",
+    "gh_url":"https://github.com/aishh828",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "test",
+    "password": "test",
+    "login_image": "https://t4.ftcdn.net/jpg/03/19/02/37/360_F_319023747_8jlLTATZzt8ZdJsh3cnOaTQ38W8pS2UQ.jpg"
+
+  }
+}
